@@ -1,0 +1,13 @@
+{
+  "transformers": [
+    {
+      "id": 1,
+      "name": "sundov",
+      "status": "OK",
+      "weapons": "pistolj. puska",
+      "vehicleGroup": "air",
+      "vehicleType": "plane",
+      "vehicleModel": "Boeing 737"
+    }
+  ]
+}

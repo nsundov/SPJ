@@ -1,0 +1,23 @@
+.jumbotron{
+    width: calc(100% - 300px);
+    display: block;
+    margin: 0 auto;
+    justify-content: center;
+}
+.dropdown-buttons{
+    margin: 15px 0;
+    padding: 0;
+}
+
+.add-btn-div{
+    margin-right: 30px;
+    width: 100%;
+    height: 40px;
+
+}
+.add-btn{
+    width: 150px;
+    float: right;
+        /* width: 100%; */
+    height: 40px;
+}

@@ -1,0 +1,38 @@
+.jumbotron{
+    width: calc(100% - 300px);
+    display: block;
+    margin: 0 auto;
+    justify-content: center;
+}
+
+.add-btn-div{
+    margin-right: 30px;
+    width: 100%;
+    height: 40px;
+    margin: 15px 0;
+}
+.add-btn{
+    width: 150px;
+    float: right;
+        /* width: 100%; */
+    height: 40px;
+}
+
+.icon{
+    cursor: pointer;
+}
+
+.center-line{
+    border: 1px solid #fff;
+}
+
+.fiter-container{
+    display: flex;
+    justify-content: right;
+    float: right;
+    margin: 8px 0;
+}
+.fiter-container-input{
+    margin: 0 10px;
+
+}
